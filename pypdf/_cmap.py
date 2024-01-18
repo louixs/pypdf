@@ -121,6 +121,7 @@ _predefined_cmap: Dict[str, str] = {
     "/GBK-EUC-V": "gbk",  # TBC
     "/GBK2K-H": "gb18030",
     "/GBK2K-V": "gb18030",
+    "/90ms-RKSJ-H": "shift-jis"
     # UCS2 in code
 }
 
